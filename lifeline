@@ -1,27 +1,48 @@
-<h1> Welcome to Lifeline. An internets site<h1>
-  <img src="photos/header.jpg" height=490px width=720px/>
+<html>
+<head>
+	<style>
+	body{background-color:FFFBE9}
+	p{
+		font-family:futura; font-size:16px;text-transform:none;letter-spacing:0px;text-alight:center;font-weight:lighter;color:80C8FF;
+		}
+		a{
+			font-family:futura; font-size:16px;text-transform:none;letter-spacing:0px;text-alight:justify;font-weight:lighter;color:A9B79D;
+			}
+	h1{
+		font-family: futura;
+	font-size:36px;letter-spacing:12px;text-align:center;text-transform:uppercase; line-height:normal;font-weight:lighter;color:A9B79D;
+	}
+	img{vertical-align:text-top}
+	</style>
+</head>
+	<h1> Welcome to Lifeline. An internets site<h1>
+<body>
+<br>  <img src="photos/header.jpg" height=490px width=720px/>
   <p>This idea came about when a girl I was keen on said to me 'I need a timetable and map to keep up with your life' So...in a totally normal way, I decided to build a site for it.</p>
 <img src="photos/yanan.jpg" height=490px width=720px/>
-<p> I lived in Yan'an for three months the summer of 2007.
-  <img src="photos/longyan.jpg" height=490px width=720px/>
-<p> 2008-2010. Longyan is where I learned Chinese, met Matty and enjoyed the drink.</p>
-    <img src='photos/trip1.jpg' height=490px width=720px/>
-    <p> In 2009 I took a trip to the Gobi dessert. Yeah! Nomads.</p>
-      <img src='photos/hailaer.jpg' height=490px width=720px/>
-    <p> I lived in Hailer from 2010-2011. This is where I saw snow and had a girlfriend. Awww...young love </p>
-<img src='photos/xiamen1.jpg' height=490px width=720px/>
-<p> I moved to Xiamen in 2011 after traveling to Thailand. Things got weird. I had 40$ and a two month visa. Things became bleak. </p>
-  <img src='photos/hongkong.jpg' height=490px width=720px/>
-  <p> On a visa run I became trapped in Hong Kong over New Years. Broke, down to my last pair of underwear, I stayed in the Sikh temple and made new friends. Fixed the blue dude's ipod.</p>
-    <img src='photos/taiz.jpg' height=490px width=720px/>
-    <p> I left Hong Kong, went back to Xiamen and then got an email that said 'come to yemen?' I agreed. Feb of 2012. Things went south. People died. BUT I did get to see the Red Sea. Moses...wut...wut</p>
-      <img src='photos/sugarhill.jpg' height=490px width=720px/>
-    <p> Evacuated May of 2012, sent back to America. I moved into my parents house and after about seven months I was gone again. Couldn't cut it. Moving home is hard.</p>
-      <img src='photos/xiamen.jpg' height=490px width=720px/>
-      <p> Ah, Xiamen...old friend. I was here from winter of 2013 to September 2013.
-        <img src='photos/basement.jpg' height=490px width=720px/>
-      <p> In 2013 I moved back to Atlanta, moved into my friend's basement and started video production. I got pretty pale. Windowless rooms.</p>
-        <img src='photos/nashville.jpg' height=490px width=720px/>
-      <p> April 2014 I made the move to Nashville. It's nice to be in a place with a good group of friends and to be in a stage in my life where I feel I'm doing something valuable.</p>
-        <img src='photos/lifeline.jpg' height=490px width=720px/>
+<p> I lived in Yan'an for three months the summer of 2007.</p><a href="https://goo.gl/maps/NH6Z2" target="_blank">See where Yan'an is</a>
+
+  <br><img src="photos/longyan.jpg" height=490px width=720px/>
+<p> 2008-2010. Longyan is where I learned Chinese, met Matty and enjoyed the drink.</p><a href="https://goo.gl/maps/if4r5" target="_blank">Check out Longyan. This is the street I spent most of my time.</a>
+  <br>  <img src='photos/trip1.jpg' height=490px width=720px/>
+    <p> In 2009 I took a trip to the Gobi dessert. Yeah! Nomads.</p><a href="https://goo.gl/maps/kuedH" target="_blank">This is where the bus dropped us off. It acts as a supply depot for the Gobi dwellers.</a>
+    <br>  <img src='photos/hailaer.jpg' height=490px width=720px/>
+    <p> I lived in Hailer from 2010-2011. This is where I saw snow and had a girlfriend. Awww...young love </p><a href="https://goo.gl/maps/epFWJ" target="_blank">Hailaer! Womp...womp...</a>
+<br><img src='photos/xiamen1.jpg' height=490px width=720px/>
+<p> I moved to Xiamen in 2011 after traveling to Thailand. Things got weird. I had 40$ and a two month visa. Things became bleak. </p><a href="https://goo.gl/maps/d274m" target="_blank">Home sweet Zeng Cuo An.</a>
+<br>  <img src='photos/hongkong.jpg' height=490px width=720px/>
+  <p> On a visa run I became trapped in Hong Kong over New Years. Broke, down to my last pair of underwear, I stayed in the Sikh temple and made new friends. Fixed the blue dude's ipod.</p><a href="https://goo.gl/maps/TKXeh" target="_blank">If you squint, you can see my matress on the floor.</a>
+  <br>  <img src='photos/taiz.jpg' height=490px width=720px/>
+    <p> I left Hong Kong, went back to Xiamen and then got an email that said 'come to yemen?' I agreed. Feb of 2012. Things went south. People died. BUT I did get to see the Red Sea. Moses...wut...wut</p><a href="https://goo.gl/maps/Oheav" target="_blank">Honestly, Taiz was probably the coolest place I lived. If it weren't for the constant threat of death and actual death, I would have stayed a bit.</a>
+    <br>  <img src='photos/sugarhill.jpg' height=490px width=720px/>
+    <p> Evacuated May of 2012, sent back to America. I moved into my parents house and after about seven months I was gone again. Couldn't cut it. Moving home is hard.</p><a href="https://goo.gl/maps/Khh6d" target="_blank">Miss you, Calculon. All my circuits...</a>
+    <br>  <img src='photos/xiamen.jpg' height=490px width=720px/>
+      <p> Ah, Xiamen...old friend. I was here from winter of 2013 to September 2013.</p><a href="https://goo.gl/maps/2tiu0" target="_blank">Had that 43rd floor apartment</a>
+    <br>    <img src='photos/basement.jpg' height=490px width=720px/>
+      <p> In 2013 I moved back to Atlanta, moved into my friend's basement and started video production. I got pretty pale. Windowless rooms.</p><a href="https://goo.gl/maps/uAamK" target="_blank">Thanks, James</a>
+    <br>    <img src='photos/nashville.jpg' height=490px width=720px/>
+      <p> April 2014 I made the move to Nashville. It's nice to be in a place with a good group of friends and to be in a stage in my life where I feel I'm doing something valuable.</p><a href="https://goo.gl/maps/bwO3K" target="_blank">East Nasty</a>
+      <br>  <img src='photos/lifeline.jpg' height=490px width=720px/>
         <p>This is my lifeline. Name pending. Hopefully, soon, you will be able to make your own.</p>
+</body>
+</html>
